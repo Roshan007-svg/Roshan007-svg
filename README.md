@@ -115,7 +115,7 @@ Interactive dashboards for data-driven decisions.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="www.linkedin.com/in/roshankumar020">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -123,7 +123,7 @@ Interactive dashboards for data-driven decisions.
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Roshan007-svg">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
